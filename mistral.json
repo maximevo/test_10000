@@ -2,6 +2,11 @@
   "schemaVersion": 2,
   "kind": "app",
   "name": "my-workflow",
+  "deployment": {
+    "organizationId": "c1864e5c-46a4-47d3-ac5f-45b308c55743",
+    "workspaceId": "fa44c1ae-5b3a-405f-97a3-4d6f9216af19",
+    "appId": "01a1ac41-e3e6-7640-b8c5-137d2311378e"
+  },
   "modules": [
     {
       "type": "app",
